@@ -1,5 +1,5 @@
 # expenseTracker
-This is a local app, which helps users to record their daily expenses.
+This is a local app, which helps users to record their daily expenses.<br />
 This app is written by Python, and UI is built with Tkinter.
 
 ### Home Page
